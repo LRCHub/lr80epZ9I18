@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Je t'aime。",
+  "base_artist": "星街すいせい",
+  "createdAt": "2026-02-08T14:07:06.326451Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Je T'Aime",
+      "artist": "Les Savy Fav",
+      "has_synced": true,
+      "path": "select/01_Je_T'Aime_Les_Savy_Fav.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Je T'aime Till My Dying Day",
+      "artist": "Enigma",
+      "has_synced": false,
+      "path": "select/02_Je_T'aime_Till_My_Dying_Day_Enigma.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Je T'Aime…Moi Non Plus",
+      "artist": "Malcolm McLaren",
+      "has_synced": false,
+      "path": "select/03_Je_T'Aime...Moi_Non_Plus_Malcolm_McLaren.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Je t'aime... Moi non plus",
+      "artist": "Malcolm McLaren",
+      "has_synced": false,
+      "path": "select/04_Je_t'aime..._Moi_non_plus_Malcolm_McLaren.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Je T'aime",
+      "artist": "Francoise Hardy",
+      "has_synced": true,
+      "path": "select/05_Je_T'aime_Francoise_Hardy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Je T'aime",
+      "artist": "Françoise Hardy",
+      "has_synced": true,
+      "path": "select/06_Je_T'aime_Françoise_Hardy.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Peut-etre que je t'aime",
+      "artist": "Francoise Hardy",
+      "has_synced": true,
+      "path": "select/07_Peut-etre_que_je_t'aime_Francoise_Hardy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Peut être Que Je T'aime",
+      "artist": "Françoise Hardy",
+      "has_synced": true,
+      "path": "select/08_Peut_être_Que_Je_T'aime_Françoise_Hardy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Je t'aime",
+      "artist": "Enrico Ruggeri",
+      "has_synced": false,
+      "path": "select/09_Je_t'aime_Enrico_Ruggeri.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Je t'aime moi non plus",
+      "artist": "Serge Gainsbourg feat. Jane Birkin",
+      "has_synced": false,
+      "path": "select/10_Je_t'aime_moi_non_plus_Serge_Gainsbourg_feat._Jane_Birkin.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Je t'aime moi non plus",
+      "artist": "Serge Gainsbourg & Jane Birkin",
+      "has_synced": false,
+      "path": "select/11_Je_t'aime_moi_non_plus_Serge_Gainsbourg_&_Jane_Birkin.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hochzeit Je T'aime",
+      "artist": "Nena",
+      "has_synced": false,
+      "path": "select/12_Hochzeit_Je_T'aime_Nena.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Quand Je T'aime - Remix Club",
+      "artist": "Demis Roussos",
+      "has_synced": false,
+      "path": "select/13_Quand_Je_T'aime_-_Remix_Club_Demis_Roussos.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bruxelles je t’aime",
+      "artist": "Angèle",
+      "has_synced": false,
+      "path": "select/14_Bruxelles_je_t’aime_Angèle.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "JE T'AIME",
+      "artist": "Moe Phoenix",
+      "has_synced": false,
+      "path": "select/15_JE_T'AIME_Moe_Phoenix.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Des milliers de je t'aime",
+      "artist": "Slimane",
+      "has_synced": true,
+      "path": "select/16_Des_milliers_de_je_t'aime_Slimane.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Mais je t'aime",
+      "artist": "Grand Corps Malade feat. Camille Lellouche",
+      "has_synced": true,
+      "path": "select/17_Mais_je_t'aime_Grand_Corps_Malade_feat._Camille_Lellouche.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Mais je t'aime",
+      "artist": "Grand Corps Malade;Camille Lellouche;Yaacov;Meir",
+      "has_synced": true,
+      "path": "select/18_Mais_je_t'aime_Grand_Corps_Malade;Camille_Lellouche;Yaacov;Meir.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Bruxelles je t’aime",
+      "artist": "Angèle",
+      "has_synced": true,
+      "path": "select/19_Bruxelles_je_t’aime_Angèle.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Mais je t’aime",
+      "artist": "Grand Corps Malade & Camille Lellouche",
+      "has_synced": true,
+      "path": "select/20_Mais_je_t’aime_Grand_Corps_Malade_&_Camille_Lellouche.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Je t'aime。",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_01_Je_t'aime。_星街すいせい.txt"
+    }
+  ]
+}
